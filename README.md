@@ -31,7 +31,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next13-ecommerce-admin.git
+git clone https://github.com/akarshsahani/admin-dashboard-SaaS.git
 ```
 
 ### Install packages
